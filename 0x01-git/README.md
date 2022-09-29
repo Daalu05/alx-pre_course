@@ -1,1 +1,2 @@
-my secong commit
+hello
+My readme is up to date
